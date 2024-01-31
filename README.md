@@ -11,3 +11,9 @@
 #### Delete Contacts: Enables the deletion of contacts from the database.
 #### Clear Input Fields: Provides functionality to clear all input fields for new data entry.
 
+# Prerequisites
+#### To run the Telephone Application, the following prerequisites are required:
+#### Windows operating system.
+#### .NET Framework.
+#### SQL Server (LocalDB or a full instance) Installation
+
