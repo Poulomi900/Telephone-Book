@@ -17,3 +17,10 @@
 #### .NET Framework.
 #### SQL Server (LocalDB or a full instance) Installation
 
+# Installation
+#### 1) Clone the repository or download the source code.
+#### 2) Open the solution file in Visual Studio.
+#### 3) Restore NuGet packages if necessary.
+#### 4) Ensure that SQL Server is installed and running.
+#### 5) Update the connection string in the Telephone class to point to your SQL Server instance.
+
